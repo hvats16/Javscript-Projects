@@ -1,6 +1,5 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
 
-
 | 01 | [Expanding Cards]
 
 | 02 | [Progress Steps]
@@ -18,7 +17,7 @@
 | 08 | [Form Wave]
 
 | 09 | [Sound Board]
- 
+
 | 10 | [Dad Jokes]
 
 | 11 | [Event Keycodes]
@@ -100,5 +99,3 @@
 | 49 | [Todo List]
 
 | 50 | [Insect Catch Game]
-
-
